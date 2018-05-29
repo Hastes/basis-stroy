@@ -1,0 +1,51 @@
+@media screen and (max-width: 1300px) {
+    #header > #topblock nav.navbar .logotype p.bold {
+        font-size: 32px;
+    }
+    #header > #topblock nav.navbar .n-collapse ul {
+        font-size: 1em;
+    }
+    #header > #topblock nav.navbar .contacts {
+        font-size: 0.85em;
+    }
+    #header > #middleblock .title-block {
+        margin-top: 140px;
+    }
+    #header > #middleblock .title-block p.bold {
+        font-size: 58px;
+    }
+    #header > #middleblock .title-block p {
+        font-size: 36px;
+    }
+    #header > #middleblock {
+        height: 640px;
+    }
+    #content > #info-block .first-block p {
+        font-size: 21px;
+    }
+    #content > #info-block .first-block ul {
+        font-size: 17px;
+    }
+    #content > #info-block .first-block,
+    #content > #info-block .second-block {
+        height: 340px;
+    }
+    #footer > #footer-bottom > #contacts .bottom-nav {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    #header > #topblock nav.navbar .logotype p.bold {
+        font-size: 28px;
+    }
+    #header > #topblock nav.navbar .logotype {
+        font-size: 0.9em;
+    }
+    #header > #topblock nav.navbar .n-collapse {
+        margin-left: 40px;
+    }
+    #footer > #footer-bottom > #contacts .contacts-block .content .contact-info {
+        font-size: 16px;
+    }
+}
